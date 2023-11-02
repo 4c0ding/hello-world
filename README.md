@@ -1,5 +1,5 @@
 # hello-world
-## GitHub tutorial
+### GitHub tutorial
 
 :wave: My name is **Angelika**,
 I am *brand new* to the world of coding!
